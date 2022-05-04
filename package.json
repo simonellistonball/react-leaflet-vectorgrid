@@ -14,7 +14,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/mhasbie/react-leaflet-vectorgrid.git"
+        "url": "git+https://github.com/simonellistonball/react-leaflet-vectorgrid.git"
     },
     "keywords": [
         "react",
@@ -53,7 +53,7 @@
         "eslint-plugin-react": "^7.11.1",
         "jest": "^23.6.0",
         "jest-enzyme": "^7.0.1",
-        "leaflet": "1.4.0",
+        "leaflet": "^1.4.0",
         "lodash": "^4.17.11",
         "mime": "^1.6.0",
         "prop-types": "^15.5.10",
